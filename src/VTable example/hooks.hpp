@@ -81,7 +81,7 @@ public:
     }
 
     /// <summary>
-    /// Replaces a methd address (hooking).
+    /// Replaces a method address (hooking).
     /// </summary>
     /// <param name="index">Zero-based index.</param>
     /// <param name="hooked_function">The hooked function.</param>
